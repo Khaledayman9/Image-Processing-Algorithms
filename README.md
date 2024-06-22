@@ -62,5 +62,4 @@ The Percentage Fit Error (PFE) measures the difference between two grayscale ima
 
 ## Technologies:
 - Python
-
 - Google Colab
